@@ -1,0 +1,58 @@
+{
+  "register": [
+    {
+      "id": 1,
+      "username": "nyinyi",
+      "email": "nyi@gmail.com",
+      "password": "nyinyi"
+    },
+    {
+      "id": 80,
+      "username": "mgmg",
+      "email": "mgmg@gmail.com",
+      "password": "mgmg"
+    },
+    {
+      "id": 8,
+      "username": "linlin",
+      "email": "lin@gmail.com",
+      "password": "linlin"
+    },
+    {
+      "id": 52,
+      "username": "test",
+      "email": "test@gmil.com",
+      "password": "test"
+    },
+    {
+      "id": 84,
+      "username": "fk",
+      "email": "ka@gmail.com",
+      "password": "akf"
+    },
+    {
+      "id": 67,
+      "username": "tes",
+      "email": "tes@gmail.com",
+      "password": "tes"
+    },
+    {
+      "id": 41,
+      "username": "susu",
+      "email": "susu@gmail.com",
+      "password": "suus"
+    },
+    {
+      "id": 64,
+      "username": "aung",
+      "email": "aung@gmail.com",
+      "password": "aung"
+    },
+    {
+      "id": 60,
+      "username": "te",
+      "email": "te@gmail.com",
+      "password": "teska"
+    }
+  ]
+}

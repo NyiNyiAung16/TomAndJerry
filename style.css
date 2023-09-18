@@ -1,0 +1,34 @@
+body{
+    background-color: #5d6571;
+}
+
+.tom{
+    color: rgb(47, 195, 47);
+}
+
+.jerry{
+    color: rgb(230, 187, 33);
+}
+
+.everything{
+    color: lightskyblue;
+}
+.rightImage{
+    max-width: 300px;
+}
+.login,.signin{
+    cursor: pointer;
+}
+
+.images{
+    height: 500px;
+    object-fit: contain;
+}
+
+.galleryBar{
+    width: 330px;
+    height: 3px;
+    background-color: lightskyblue;
+    margin: auto;
+    margin-bottom: 10px;
+}
